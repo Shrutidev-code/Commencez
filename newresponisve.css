@@ -1,0 +1,112 @@
+@media only screen and (max-width:1160px){
+    body{
+        background:linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0,0.5)),url("w12.jpg");
+        width:100vw;
+        height:150vh;
+    }
+
+}
+
+@media only screen and (max-width:415px){
+    body{
+        background:linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0,0.5)),url("w12.jpg");
+        /* width:100vw; */
+        height:250vh;
+    }
+
+}
+
+@media only screen and (max-width:250px){
+    body{
+        background:linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0,0.5)),url("w12.jpg");
+        /* width:100vw; */
+        height:290vh;
+    }
+
+}
+
+@media only screen and (max-width:215px){
+    body{
+        /* width:100vw; */
+        height:340vh;
+    }
+
+}
+
+@media only screen and (max-width:196px){
+    body{
+        /* width:100vw; */
+        height:370vh;
+    }
+
+}
+@media only screen and (max-width:169px){
+    body{
+        /* width:100vw; */
+        height:390vh;
+    }
+
+}
+
+@media only screen and (max-width:160px){
+    body{
+        /* width:100vw; */
+        height:400vh;
+    }
+
+}
+
+@media only screen and (max-width:130px){
+   
+
+    #login-box {
+        margin-left:-100px  ;
+        width: 700px;
+        
+      }
+
+}
+
+@media only screen and (max-width:100px){
+   
+
+    #login-box {
+        margin-left:-150px  ;
+        width: 740px;
+        height: 800px;
+        
+      }
+
+}
+
+@media only screen and (max-width:90px){
+   
+
+    #login-box {
+        margin-left:-190px;
+        width: 780px;
+        
+      }
+
+}
+@media only screen and (max-width:81px){
+   
+
+    #login-box {
+        margin-left:-210px;
+        width: 810px;
+        
+      }
+
+}
+
+@media only screen and (max-width:75px){
+   
+
+    #login-box {
+        margin-left:-240px;
+        width: 850px;
+        
+      }
+
+}
